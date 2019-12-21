@@ -12,7 +12,7 @@ public class Launch_browser
 		 
 		 driver.manage().window().maximize();
 		 
-		 driver.get("https://www.facebook.com");
+		 driver.get("https://www.google.com");
 		 
 		 driver.quit();
 		 
